@@ -2,4 +2,4 @@
 
 I'm python developer. 
 
-I'm currently studying software development at [@Yandex.Practicum](https://practicum.yandex.com)
+I'm learning python and currently studying software development at [@Yandex.Practicum](https://practicum.yandex.com)
